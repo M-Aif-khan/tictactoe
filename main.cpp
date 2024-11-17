@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/* This whole game is made on concept of functional prgramming so there is no use of classes here*/
 
 void DisplayBoard() // this function is just to display the board structure 
 {
